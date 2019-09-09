@@ -1,0 +1,1 @@
+Serverless project based on https://github.com/AnomalyInnovations/serverless-nodejs-starter.
